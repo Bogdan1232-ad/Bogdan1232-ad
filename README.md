@@ -1,6 +1,6 @@
 <!-- ====== NEON HEADER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5D4,50:00D1FF,100:7C3AED&text=⚡%20CTkiller%20⚡&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=java%20%7C%20python%20%7C%20itmo%20kt&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5D4,50:00D1FF,100:7C3AED&text=⚡%20CTkiller%20⚡&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=java%20%7C%20python%20%7C%20itmo%20ct&descAlignY=60" />
 </p>
 
 <!-- ====== NEON TYPING ====== -->
