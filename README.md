@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/4YQZtQS.gif" width="100%" alt="neon cyber city skyline"/>
+</p>
+
 <!-- ====== NEON HEADER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5D4,50:00D1FF,100:7C3AED&text=⚡%20CTkiller%20⚡&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=java%20%7C%20python%20%7C%20itmo%20ct&descAlignY=60" />
@@ -63,4 +67,5 @@
 
 ### 🐍 contribution snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bogdan1232-ad/Bogdan1232-ad/output/snake.svg" alt="snake
+  <img src="https://raw.githubusercontent.com/Bogdan1232-ad/Bogdan1232-ad/output/snake.svg" alt="snake animation" />
+</p>
