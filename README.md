@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 featured projects
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Bogdan1232-ad/neon-logger">
     <img src="https://img.shields.io/badge/neon%20logger-%2300F5D4.svg?style=for-the-badge&logo=java&logoColor=black" />
   </a>
@@ -40,7 +40,7 @@
   <a href="https://github.com/Bogdan1232-ad/kt-itmo-tools">
     <img src="https://img.shields.io/badge/itmo%20tools-%237C3AED.svg?style=for-the-badge&logo=gradle&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
