@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g4cHRqMTRzd2I4Nnllc3F4aTd6NXp4dHY1MHE2ZzgzbXVtaDIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ymkUFbGgt3loA/giphy.gif" width="100%" alt="pulp fiction"/>
+</p>
+
 <!-- ====== NEON HEADER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5D4,50:00D1FF,100:7C3AED&text=⚡%20CTkiller%20⚡&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=java%20%7C%20python%20%7C%20itmo%20ct&descAlignY=60" />
