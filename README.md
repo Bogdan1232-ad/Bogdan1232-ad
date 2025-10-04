@@ -5,7 +5,7 @@
 
 <!-- ====== NEON TYPING ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&width=750&lines=creating+chaos+in+java;training+AI+to+behave;studying+at+ITMO+KT;debugging+since+the+dawn+of+code" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=00F5D4&center=true&vCenter=true&width=750&lines=creating+chaos+in+java;training+AI+to+behave;studying+at+ITMO+CT;debugging+since+the+dawn+of+code" alt="typing animation" />
 </p>
 
 <!-- ====== ABOUT ====== -->
